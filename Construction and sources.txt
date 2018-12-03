@@ -1,0 +1,9 @@
+https://www.pythonforengineers.com/build-a-reddit-bot-part-1/
+
+https://praw.readthedocs.io/en/v4.0.0/getting_started/configuration/prawini.html
+
+https://www.reddit.com/dev/api
+
+https://praw.readthedocs.io/en/latest/tutorials/comments.html
+
+https://stackoverflow.com/questions/6048085/writing-unicode-text-to-a-text-file
